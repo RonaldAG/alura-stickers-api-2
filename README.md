@@ -13,11 +13,17 @@ programa desenvolvido no [primeiro stage.](https://github.com/RonaldAG/alura-sti
 
 - Funcionalidade 3: DELETE de alguma tecnologia.
 
-## Desafios
+## Desafios concluidos:
+:heavy_check_mark: Desenvolver método para deletar um elemento da API;
+
+:heavy_check_mark: Organizar em ordem de ranking;
 
 ## Aplicação
 
-Figurinhas geradas a partir de uma API própria
+Figurinhas geradas a partir de uma API própria 
+
+![image](https://user-images.githubusercontent.com/84423626/180677801-db64ae62-d24b-43aa-9be2-c8d7ba355d37.png)
+
 
 ## Endpoints
 <strong> GET e POST </strong> <br>
@@ -26,11 +32,12 @@ Figurinhas geradas a partir de uma API própria
     
     
 ## Tecnologias utilizadas
-### Linguagem:
+
+<strong> Linguagem: </strong> <br>
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-### Frameworks:
+<strong> Frameworks: </strong> <br>
 
 <a href="https://spring.io.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>  </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>  </a>
@@ -42,7 +49,6 @@ Figurinhas geradas a partir de uma API própria
 Você pode [acessar o código fonte do projeto](https://github.com/RonaldAG/alura-stickers-api-2/tree/main/src/main/java/com/alura/technologiesapi).
 Como também o repositório da [primeira etapa](https://github.com/RonaldAG/alura-stickers-api-1).
 
-
 ## Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o `VSCode`. Para isso, na tela de launcher clique em:
@@ -51,3 +57,9 @@ Após baixar o projeto, você pode abrir com o `VSCode`. Para isso, na tela de l
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
 - Por fim clique em `OK`.
 - Ao finalizar, você pode executar o App 🏆
+
+
+## Desafios próximos desafios
+
+- Desenvolver CRUD completo;
+- Criar sistema de votação, de forma que cada vez que derem um GET na linguagem, a mesma recebe um voto;
